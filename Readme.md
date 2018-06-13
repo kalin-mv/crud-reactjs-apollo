@@ -1,1 +1,6 @@
-It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
+It's the small example project that demonstrates how to implement CRUD operations using GraphQL. The example builded based following tools:
+* ReactJS
+* Tailwind CSS
+* Apollo GraphQL v2.3
+* Next.JS
+* ExpressJS
